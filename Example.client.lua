@@ -5,7 +5,7 @@
 --]]
 
 local Pryv4x = loadstring(game:HttpGet(
-	""https://raw.githubusercontent.com/PJKUNGHUB/ui/main/Pryv4x.lua""
+    "https://raw.githubusercontent.com/PJKUNGHUB/ui/main/Pryv4x.lua"
 ))()
 
 local Window = Pryv4x:CreateWindow({
